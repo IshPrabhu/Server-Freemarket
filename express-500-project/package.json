@@ -1,0 +1,14 @@
+{
+  "name": "express-500-project",
+  "version": "1.0.0",
+  "description": "An Express project that demonstrates a 500 status code response.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
